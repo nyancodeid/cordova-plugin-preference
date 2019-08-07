@@ -1,0 +1,25 @@
+{
+  "name": "nyanpreference",
+  "version": "0.1.0",
+  "description": "Android App Preference",
+  "main": "www/NyanPreference.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyancodeid/cordova-plugin-nyanpreference.git"
+  },
+  "keywords": [
+    "app",
+    "preference",
+    "cordova",
+    "phonegap"
+  ],
+  "author": "Ryan Aunur Rassyid <ryandevstudio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nyancodeid/cordova-plugin-nyanpreference/issues"
+  },
+  "homepage": "https://github.com/nyancodeid/cordova-plugin-nyanpreference#readme"
+}
